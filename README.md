@@ -4,6 +4,6 @@
   
 * 📚 **MSc Electronic Devices and Systems started in 2023 work in progress...**
   
-* 👀 **I’m interested in FPGA, CPU, GPU, NPU, TPU, MCU and design of analog systems⚡, from silicon to chip🔬**
+* 👀 **I’m interested in FPGA, CPU, GPU, NPU, TPU, MCU and design of analog systems⚡ from silicon to chip🔬**
   
 * 💞️ **I’m looking to collaborate on Automotive🚗, Aerospace🚀, Biomedical field⚕️, Neural Engines🧠**
