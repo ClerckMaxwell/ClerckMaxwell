@@ -32,11 +32,11 @@
 
 #### **Digital Systems & FPGA**
 * **HDL Languages:** **VHDL, Verilog, SystemVerilog** and event-driven programming with **nesC**.
-* **Tools:** Expert in **Xilinx Vivado, Vitis, Vitis HLS**, and ISE Design Suite.
-* **Architectures:** Design of custom 16-bit CPUs, multipliers at logic gate level, and hardware accelerators for Image Processing (Convolvers).
+* **Tools:** Expert in **Xilinx Vivado, Vitis, Vitis HLS, LTspice**.
+* **Architectures:** I designed the RTL of a custom 16-bit CPU, HW multipliers, HW accelerators for Image Processing (Convolvers).
 
 #### **Testing & Characterization**
-* **Lab Experience:** Electrical characterization of flexible microprocessors (**Flex6502**) on 20cm wafers at **imec**.
+* **Lab Experience:** Electrical characterization of flexible microprocessors (**Flex6502**) on 20cm x 20cm wafers at **imec**.
 * **Instrumentation:** Proficiency with **Cascade Microtech probe stations**, SMUs, Picoscopes, and Logic Analyzers.
 * **Automation:** Development of autonomous measurement systems.
 
